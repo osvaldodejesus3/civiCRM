@@ -1,9 +1,13 @@
 {literal}
 
   <script type="text/javascript">
+  
+  //para ocultar a id
    CRM.$(function($) {$('#nick_name').hide();})
  
-   CRM.$(function($) {$('#first_name').val('osvaldo');})
+ 
+ //para ocultar clases
+   CRM.$(function($) {$('.first_name').val('osvaldo');})
 
  </script>
  
